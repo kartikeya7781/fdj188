@@ -20,13 +20,11 @@ public static void main(String[] args) {
 
 }	
 
-=======
-        }
-	{
+
 	public void m5()
 	{
         System.out.println("m5");
         }	
 	
->>>>>>> branch 'main' of https://github.com/kartikeya7781/fdj188
+
 }
